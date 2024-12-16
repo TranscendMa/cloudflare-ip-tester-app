@@ -1,6 +1,6 @@
 # cloudflare-ip-tester-app
 
-[中文文档](./README.MD)
+[中文文档](./README-ZH.MD)
 
 ### Functions
 

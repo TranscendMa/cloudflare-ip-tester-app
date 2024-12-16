@@ -1,6 +1,6 @@
 # cloudflare-ip-tester-app
 
-[ENGLISH](./README-EN.MD)
+[ENGLISH](./README.MD)
 
 ### 功能
 
